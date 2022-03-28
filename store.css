@@ -17,7 +17,7 @@ margin: 10px;
     height: auto;
     width: 500px;
 border: 2px solid pink;
-
+transition: all 1s;
 }
 
 .table2{
@@ -25,9 +25,69 @@ border-radius: 20px;
 border: 2px solid pink;
     padding: 10px;
 margin: 10px;
+transition: all 1s;
 
 background-color: whitesmoke;
 height: auto ;
 width: 500px;
 
+}
+.table1:hover{
+    background-color:blanchedalmond;
+
+    transform : scale(1.3);
+}
+.table2:hover{
+    background-color:blanchedalmond;
+
+    transform : scale(1.3);
+}
+
+
+
+
+.new1{
+
+    background-color:white;
+    height: auto;
+    width: 1340px;
+    justify-content: center;
+    
+    display: flex;
+    
+
+}
+.table3{
+
+    border-radius: 20px;
+    padding: 10px;
+margin: 10px;
+    background-color: whitesmoke;
+    height: auto;
+    width: 500px;
+border: 2px solid pink;
+transition: all 1s;
+
+
+}
+.table4{
+    border-radius: 20px;
+    padding: 10px;
+margin: 10px;
+    background-color: whitesmoke;
+    height: auto;
+    width: 500px;
+border: 2px solid pink;
+transition: all 1s;
+
+}
+.table3:hover{
+    background-color:blanchedalmond;
+
+    transform : scale(1.3);
+}
+.table4:hover{
+    background-color:blanchedalmond;
+
+    transform : scale(1.3);
 }
