@@ -1,0 +1,23 @@
+.new{
+
+    background-color: aqua;
+    height: 90vh;
+    width: 1340px;
+}
+.tr{
+
+    background-color: beige;
+    height: 40vh;
+margin-left: 20px;
+    width: 500px;
+}
+
+.th{
+
+    justify-content: center;
+}
+.th img{
+
+margin-left: 40px;
+
+}

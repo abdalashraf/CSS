@@ -1,0 +1,26 @@
+.div1{
+background-color: #AD8B73;
+height: 4vh;
+width:90% ;
+text-align: center;
+padding: 1%;
+border-radius: 50%;
+/* justify-content: center; */
+margin-left: 4%;
+/* margin-right:9% ; */
+}   
+.div2{
+    
+    background-color: #CEAB93;
+    height:4vh ;
+    width: 100%;
+    /* display: flex; */
+    
+}
+.div3{
+    
+    background-color: #CEAB93;
+    height:4vh ;
+    width: 100%;
+    /* display: flex; */
+}

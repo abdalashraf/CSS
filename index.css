@@ -1,0 +1,38 @@
+.div1{
+    
+margin-left: 61%;
+    height: auto;
+    width: 500px;
+
+    align-items: center;
+    border: 3px solid snow ;
+    padding: 5px;
+}
+.div1:hover{
+
+    transform:calc(333deg) ;
+}
+ul{
+
+text-align: left;
+display: flex;
+
+justify-content:right;
+}
+ul li{
+    background-color: blue;
+    margin: 10px;
+list-style:none ;
+padding: 20px;
+
+}
+ul li:hover{
+
+    transform: rotate(300deg);
+border-radius: 50px;
+transition: all 16ms;
+}
+.form:hover{
+transform: rotate(130deg);
+
+}
