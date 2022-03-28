@@ -1,23 +1,33 @@
 .new{
+background-color:white;
+height: auto;
+width: 1340px;
+justify-content: center;
 
-    background-color: aqua;
-    height: 90vh;
-    width: 1340px;
+display: flex;
+
+
 }
-.tr{
+.table1{
 
-    background-color: beige;
-    height: 40vh;
-margin-left: 20px;
+border-radius: 20px;
+    padding: 10px;
+margin: 10px;
+    background-color: whitesmoke;
+    height: auto;
     width: 500px;
+border: 2px solid pink;
+
 }
 
-.th{
+.table2{
+border-radius: 20px;
+border: 2px solid pink;
+    padding: 10px;
+margin: 10px;
 
-    justify-content: center;
-}
-.th img{
-
-margin-left: 40px;
+background-color: whitesmoke;
+height: auto ;
+width: 500px;
 
 }
